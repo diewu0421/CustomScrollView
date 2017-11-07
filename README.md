@@ -41,5 +41,5 @@ custom_scroll.apply {
 
 ### 效果
 
-![Alt text](./2017-11-07_14-21-37.gif)
+![CustomScrollView](https://raw.githubusercontent.com/diewu0421/CustomScrollView/master/blob/master/2017-11-07_14-21-37.gif)
 
