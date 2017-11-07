@@ -1,4 +1,4 @@
-package com.example.xysm.customscrollview.util
+package com.example.mylib.util
 
 import android.app.Activity
 import android.content.Context

@@ -1,4 +1,4 @@
-package com.example.xysm.customscrollview.widget
+package com.example.mylib.widget
 
 import android.content.Context
 import android.util.AttributeSet
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.HorizontalScrollView
 import android.widget.LinearLayout
-import com.example.xysm.customscrollview.util.getScreenSize
+import com.example.mylib.util.getScreenSize
 
 /**
  * CustomHorizontalScrollView

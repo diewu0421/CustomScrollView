@@ -8,9 +8,11 @@
     android:orientation="vertical"
     tools:context="com.example.xysm.customscrollview.MainActivity">
 
-    <com.example.xysm.customscrollview.widget.CustomHorizontalScrollView
+    <com.example.mylib.widget.CustomHorizontalScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#b88b8b"
         android:id="@+id/custom_scroll"/>
+
+
 </LinearLayout>
